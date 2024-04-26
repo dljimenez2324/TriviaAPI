@@ -24,12 +24,12 @@ async function getM(){
 async function getSN(){
     let apiResponse = await fetch("https://opentdb.com/api.php?amount=10&category=17").then(Response => Response.json());
     //console.log(apiResponse);
-
+    displayArea.innerText = apiResponse.results["0"].question;
 }
 
 // API function for Cartoons & Animations
 async function getCA(){
     let apiResponse = await fetch("https://opentdb.com/api.php?amount=10&category=32").then(Response => Response.json());
     //console.log(apiResponse);
-
+    displayArea.innerText = apiResponse.results["0"].question;
 }
