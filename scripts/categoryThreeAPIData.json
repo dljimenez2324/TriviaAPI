@@ -1,0 +1,121 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+            "correct_answer": "At Summer Camp",
+            "incorrect_answers": [
+                "At High School",
+                "At Church",
+                "At 742 Evergreen Terrace"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In South Park, what is Stan&#039;s surname?",
+            "correct_answer": "Marsh",
+            "incorrect_answers": [
+                "Stotch",
+                "Broflovski",
+                "Tweak"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+            "correct_answer": "Levi Stubbs",
+            "incorrect_answers": [
+                "Freddie Mercury",
+                "Janet Jackson",
+                "Joan Jett"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Nickelodeon is owned by what parent company?",
+            "correct_answer": "Viacom",
+            "incorrect_answers": [
+                "CBS",
+                "FOX",
+                "ABC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the name of Ruby Rose&#039;s weapon from RWBY?",
+            "correct_answer": "Crescent Rose",
+            "incorrect_answers": [
+                "Thorned Rosebud",
+                "Magnhild",
+                "Crooked Scythe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?",
+            "correct_answer": "Bandit",
+            "incorrect_answers": [
+                "Lucky",
+                "Rocky",
+                "Max"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+            "correct_answer": "Steven Universe",
+            "incorrect_answers": [
+                "Regular Show",
+                "Adventure Time",
+                "The Amazing World of Gumball"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Avatar: The Last Airbender&quot; and &quot;The Legend of Korra&quot;, Lavabending is a specialized bending technique of Firebending.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+            "correct_answer": "Vietnam War",
+            "incorrect_answers": [
+                "World War 2",
+                "World War 1",
+                "Cold War"
+            ]
+        }
+    ]
+}

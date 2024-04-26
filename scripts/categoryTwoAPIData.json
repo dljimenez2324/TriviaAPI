@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What mineral has the lowest number on the Mohs scale?",
+            "correct_answer": "Talc",
+            "incorrect_answers": [
+                "Quartz",
+                "Diamond",
+                "Gypsum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Where did the Great Storm of 1987 make landfall at, first?",
+            "correct_answer": "Cornwall",
+            "incorrect_answers": [
+                "Surrey",
+                "Wales",
+                "The Midlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+            "correct_answer": "Boron",
+            "incorrect_answers": [
+                "Oxygen",
+                "Carbon",
+                "Iron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which part of the body does glaucoma affect?",
+            "correct_answer": "Eyes",
+            "incorrect_answers": [
+                "Throat",
+                "Stomach",
+                "Blood"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which noble gas has the lowest atomic number?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Neon",
+                "Argon",
+                "Krypton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The medial meniscus forms which part of what joint in the human body?",
+            "correct_answer": "Knee",
+            "incorrect_answers": [
+                "Elbow",
+                "Ankle",
+                "Shoulder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which is the longest bone in the human body? ",
+            "correct_answer": "Femur",
+            "incorrect_answers": [
+                "Scapula",
+                "Fibula",
+                "Ulna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+            "correct_answer": "Neon",
+            "incorrect_answers": [
+                "Potassium",
+                "Iodine",
+                "Colbalt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What term is best associated with Sigmund Freud?",
+            "correct_answer": "Psychoanalysis",
+            "incorrect_answers": [
+                "Cognitive-Behavioral Therapy",
+                "Theory of Gravity",
+                "Dialectical Behavior Therapy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of these animals belongs in class Chondrichthyes?",
+            "correct_answer": "Great white shark",
+            "incorrect_answers": [
+                "Octopus",
+                "Killer whale",
+                "Catfish"
+            ]
+        }
+    ]
+}

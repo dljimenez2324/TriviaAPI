@@ -1,0 +1,115 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+            "correct_answer": "90",
+            "incorrect_answers": [
+                "180",
+                "270",
+                "0"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "A scalene triangle has two sides of equal length.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "In Topology, the complement of an open set is a closed set.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philospher?",
+            "correct_answer": "Bertrand Russel",
+            "incorrect_answers": [
+                "Francis Bacon",
+                "John Locke",
+                "Alfred North Whitehead"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What are the first 6 digits of the number &quot;Pi&quot;?",
+            "correct_answer": "3.14159",
+            "incorrect_answers": [
+                "3.14169",
+                "3.12423",
+                "3.25812"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "How many zeros are there in a googol?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "10",
+                "1,000",
+                "1,000,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "How many zeptometres are inside one femtometre?",
+            "correct_answer": "1,000,000",
+            "incorrect_answers": [
+                "10",
+                "1,000,000,000",
+                "1000"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "E = MC3",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}
