@@ -1,0 +1,52 @@
+.sedan-regular {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.sedan-regular-italic {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+body{
+    background-image: url("/media/trivia\ theme.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:24%;
+}
+
+.fullMarg {
+    padding-top: 13rem;
+    padding-left: 15rem;
+}
+.topMarg {
+    margin-top: 7rem;
+}
+
+h1, p, h3 {
+    color: aliceblue;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+#smallGuy {
+    font-size: small;
+    margin-top: 0.5rem;
+}
+
+#displayArea{
+    font-size: 1.5rem;
+}
+
+.ansStyle {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: plum;
+}
