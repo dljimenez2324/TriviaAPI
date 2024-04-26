@@ -19,4 +19,4 @@
 
 
 Peer Reviewed by Julius Xavier Ponce De Leon <br>
-Comments:  <br> <br> 
+Comments:  <br> Works great! Styling is neat and easy to read. All buttons are working, showing all questions on screen as intended.  Tab title is a great touch as well. Nice work! <br> 
